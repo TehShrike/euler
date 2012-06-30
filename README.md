@@ -3,7 +3,7 @@ Project Euler
 
 As an exercise, I think I might enjoy solving a few Project Euler problems.
 
-My goal is to use JavaScript in a functional manner (no mutable objects).
+My goal is to use JavaScript in a functional manner, avoiding modifying objects or changing the values of variables.
 
 I am not a mathemetician (at least, not a very good one), and mostly plan on solving the issues that can be solved with code, not intelligent math tricks.
 

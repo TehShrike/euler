@@ -1,3 +1,5 @@
+"use strict"
+
 var sum_even_numbers = function(b, even_memo) {
 	if (b % 2 === 0) {
 		return b + even_memo;

@@ -1,3 +1,5 @@
+"use strict"
+
 var _ = require('underscore')._;
 
 var multiples_of_three_or_five = _.union(_.range(0, 1000, 3), _.range(0, 1000, 5));
